@@ -25,7 +25,7 @@ function RenderLeader ({ leader, isLoading, errMess }) {
         <div key={ leader.id } className="col-12 mt-2">
             <Media tag="li">
                 <Media left middle>
-                    <span class="d-flex mr-5 img-thumbnail 1324567">
+                    <span class="d-flex mr-5 img-thumbnail 13245678">
                         <Media object src={ baseUrl + leader.image } alt={ leader.name } />
                     </span>
                 </Media>
